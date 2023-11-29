@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 10px solid black;
+    margin: 10px;
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.tituloPrincipal{
+    width: 1rem;
+}
