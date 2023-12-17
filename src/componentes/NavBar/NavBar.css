@@ -10,8 +10,11 @@ li {
     display: inline-block;
     margin: 10px;
     cursor: pointer;
+    text-decoration: none;
+    
 }
 
 .tituloPrincipal{
     width: 1rem;
+    text-decoration: none;
 }
